@@ -7,9 +7,8 @@ or 👌🏼:
 
 ![alt text](./public/images/2.png)
 
-
 ## Don't forget to join on my channel
-Link to subscribe : https://www.youtube.com/@MarwanMAlFalah
+Link to subscribe: [YouTube Link](https://www.youtube.com/@MarwanMAlFalah)
 
 
 ## Project setup ⚡️
