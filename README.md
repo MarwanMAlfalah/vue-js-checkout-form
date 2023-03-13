@@ -1,9 +1,9 @@
 # vue-js-checkout-form
-This is small project to check form your payment card and appear summary, result as this photo ^_- :
+This is small project to check form your payment card and appear summary, result as this photo 😍 :
 
 ![alt text](./public/images/1.png)
 
-or:
+or 👌🏼:
 
 ![alt text](./public/images/2.png)
 
@@ -12,30 +12,30 @@ or:
 Link to subscribe : https://www.youtube.com/@MarwanMAlFalah
 
 
-## Project setup
+## Project setup ⚡️
 
 ```
 npm install
 ```
 
-### Compiles and hot-reloads for development
+### Compiles and hot-reloads for development ✨
 
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### Compiles and minifies for production 🚀
 
 ```
 npm run build
 ```
 
-### Lints and fixes files
+### Lints and fixes files 📝
 
 ```
 npm run lint
 ```
 
-### For customize configuration
+### For customize configuration 🔍
 
 See [Configuration Reference](https://cli.vuejs.org/config/).
