@@ -7,7 +7,7 @@ or 👌🏼:
 
 ![alt text](./public/images/2.png)
 
-## Don't forget to join on my channel
+## Don't forget to join on my channel 🎦
 Link to subscribe: [YouTube Link](https://www.youtube.com/@MarwanMAlFalah)
 
 
